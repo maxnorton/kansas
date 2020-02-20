@@ -46,7 +46,7 @@ quietly infix                  ///
   byte    spmmort     220-220  ///
   double  spmchxpns   221-240  ///
   double  spmcapxpns  241-262  ///
-  using `"cps_00002.dat"'
+  using `"data/source/cps_00002.dat"'
 
 replace hwtfinl    = hwtfinl    / 10000
 replace asecwth    = asecwth    / 10000
