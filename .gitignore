@@ -1,2 +1,4 @@
-data/
+*.csv
+*.dat
+*.dta
 .DS_Store
