@@ -20,4 +20,4 @@ save `pumadata', replace
 use `acsdata', clear
 merge m:1 puma using `pumadata', keep(1 3)
 
-save kansas$ver, replace
+save data/kansas$ver, replace
