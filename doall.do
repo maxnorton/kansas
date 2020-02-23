@@ -1,7 +1,7 @@
 set more off
 global ver _v0_2
 
-do usa_00006.do
+do usa_00007.do
 tempfile acsdata
 save `acsdata', replace
 

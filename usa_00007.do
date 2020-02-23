@@ -36,7 +36,7 @@ quietly infix                ///
   long    incinvst  140-145  ///
   long    incretir  146-151  ///
   long    migpuma1  152-156  ///
-  using `"data/source/usa_00006.dat"'
+  using `"usa_00007.dat"'
 
 replace hhwt     = hhwt     / 100
 replace perwt    = perwt    / 100
